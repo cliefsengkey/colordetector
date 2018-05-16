@@ -1,0 +1,6 @@
+networkx==1.11
+colormath==2.1.1
+colors.py==0.2.2
+webcolors==1.7
+colorthief==0.2.1
+opencv-python==3.3.0.10

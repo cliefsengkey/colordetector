@@ -29,7 +29,7 @@ import cv2
 import urllib.request
 import os
 
-df = pd.read_csv('yuna_colors.csv', sep=',')
+df = pd.read_csv('color_lists.csv', sep=',')
 # df.loc[df['level'] == 2]
 
 class ColorDetector:
