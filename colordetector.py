@@ -121,24 +121,23 @@ class ColorDetector:
 
     def get_image_color(self,img_name,additional_color=2,delete_temp=True):
         """
-                Dependencies:
-                pip install colorthief
-                pip install opencv-python
-
                 This method is aim to to find the main_color and additional color of an image
                 The parameter of input is the URL of an image
                 delete_temp default is False, if True then the temp image will be removed after get the colors
         """
         color_list = {}
         # img_name = "temp.jpg"
-        # download image from url to local:
+        # if the given image is URL then it will download image from url to local:
         # urllib.request.urlretrieve(img_url, img_name)
 
         img2_name = self.remove_image_bg(img_name)
         color_thief = ColorThief(img2_name)
+        # dominant_color to only get 1 main color of image:
         # dominant_color = color_thief.get_color(quality=1)
-        palette_colors = color_thief.get_palette(color_count=additional_color,quality=10)
         # dominant_color = self.get_similar_colors(dominant_color, k=1)
+
+        # palette color will get multiple colors from image
+        palette_colors = color_thief.get_palette(color_count=additional_color,quality=10)
         additional_colors = []
 
         for color in palette_colors:
@@ -147,6 +146,7 @@ class ColorDetector:
 
         # color_list['main_color'] = dominant_color[0]
         # color_list['additional_colors'] = additional_colors
+        
         if delete_temp:
         #     os.remove("temp.jpg")
             os.remove("%s_removed.png" % img_name)
