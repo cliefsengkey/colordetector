@@ -1,0 +1,254 @@
+display_name,short_name,level,hex_color,r_color,g_color,b_color
+Metallic,metallic,1,000000,0,0,0
+Silver,silver,1,cccccc,204,204,204
+Orange,orange,1,f97306,249,115,6
+Beige,beige,1,F5F5DC,245,245,220
+Black,black,1,000000,0,0,0
+Yellow,yellow,1,ffe700,255,231,0
+Multicolor,multicolor,1,000000,0,0,0
+Copper,copper,1,b87333,184,115,51
+Red,red,1,e50000,229,0,0
+Purple,purple,1,800080,128,0,128
+Gold,gold,1,D4AF37,212,175,55
+Pink,pink,1,ff81c0,255,129,192
+Brown,brown,1,663300,102,51,0
+White,white,1,FFFFFF,255,255,255
+Turquoise,turquoise,1,06C2AC,6,194,172
+Blue,blue,1,285EFF,40,94,255
+Gray,gray,1,959595,149,149,149
+Green,green,1,00A550,0,165,80
+Light Gray,light-gray,2,D8D8D8,216,216,216
+Gray,gray,2,959595,149,149,149
+Dark Gray,dark-gray,2,606060,96,96,96
+White,white,2,FFFFFF,255,255,255
+Black,black,2,000000,0,0,0
+Beige,beige,2,F5F5DC,245,245,220
+Dark Red,dark-red,2,840000,132,0,0
+Light Orange,light-orange,2,FFB07C,255,176,124
+Green,green,2,00A500,0,165,0
+Dark Green,dark-green,2,005216,0,82,22
+Light Turquoise,light-turquoise,2,90F4DA,144,244,218
+Turquoise,turquoise,2,06c2ac,6,194,172
+Dark Turquoise,dark-turquoise,2,045C5A,4,92,90
+Light Blue,light-blue,2,81c1fd,129,193,253
+Blue,blue,2,285EFF,40,94,255
+Silver,silver,2,cccccc,204,204,204
+Metallic Purple,metallic-purple,2,800080,128,0,128
+Metallic Pink,metallic-pink,2,FF81C0,255,129,192
+Metallic Red,metallic-red,2,E50000,229,0,0
+Metallic Orange,metallic-orange,2,F97306,249,115,6
+Metallic Green,metallic-green,2,00A550,0,165,80
+Metallic Turquoise,metallic-turquoise,2,06C2AC,6,194,172
+Metallic Blue,metallic-blue,2,285EFF,40,94,255
+Metallic Brown,metallic-brown,2,663300,102,51,0
+Metallic White,metallic-white,2,FFFFFF,255,255,255
+Metallic Black,metallic-black,2,000000,0,0,0
+Gold,gold,2,D4AF37,212,175,55
+Dark Blue,dark-blue,2,000080,0,0,128
+Copper,copper,2,b87333,184,115,51
+Orange,orange,2,f97306,249,115,6
+Dark Orange,dark-orange,2,c65102,198,81,2
+Light Yellow,light-yellow,2,FEFEB7,254,254,183
+Yellow,yellow,2,ffe700,255,231,0
+Dark Yellow,dark-yellow,2,C99B10,201,155,16
+Light Green,light-green,2,90ee90,144,238,144
+Light Red,light-red,2,F4757B,244,117,123
+Red,red,2,e50000,229,0,0
+Light Purple,light-purple,2,F6CEFC,246,206,252
+Purple,purple,2,800080,128,0,128
+Dark Purple,dark-purple,2,5a005a,90,0,90
+Light Pink,light-pink,2,ffcfdc,255,207,220
+Pink,pink,2,ff81c0,255,129,192
+Dark Pink,dark-pink,2,cc035c,204,3,92
+Light Brown,light-brown,2,ad8150,173,129,80
+Brown,brown,2,653700,101,55,0
+Dark Brown,dark-brown,2,4C2801,76,40,1
+Orange,orange,3,f97306,249,115,6
+Amber,amber,3,FFB33A,255,179,58
+Red Orange,red-orange,3,FF5800,255,88,0
+Tangerine,tangerine,3,F28000,242,128,0
+Dark Orange,dark-orange,3,c65102,198,81,2
+Ochre,ochre,3,C68211,198,130,17
+Rust,rust,3,A83C09,168,60,9
+Cream,cream,3,FFFFD4,255,255,212
+Light Tan,light-tan,3,FBEEAC,251,238,172
+Light Yellow,light-yellow,3,FEFEB7,254,254,183
+Light Khaki,light-khaki,3,E6E884,230,232,132
+Blond,blond,3,F3F4B7,243,244,183
+Lemon,lemon,3,FDFF52,253,255,82
+Mustard,mustard,3,FFDB58,255,219,88
+Chartreuse,chartreuse,3,FFFF00,255,255,0
+Golden Yellow,golden-yellow,3,FFD800,255,216,0
+Citrine,citrine,3,D1C710,209,199,16
+Titanium Yellow,titanium-yellow,3,EDE211,237,226,17
+Neon Carrot,neon-carrot,3,ECA543,236,165,67
+Goldenrod,goldenrod,3,FAC205,250,194,5
+Dark Yellow,dark-yellow,3,C99B10,201,155,16
+Golden Palm,golden-palm,3,997707,153,119,7
+Tea Green,tea-green,3,D6F9A7,214,249,167
+Pastel Green,pastel-green,3,C7FDB5,199,253,181
+Pistachio,pistachio,3,ADD850,173,216,80
+Copper Red,copper-red,3,C6836F,198,131,111
+Dark Coral,dark-coral,3,B56656,181,102,86
+Redwood,redwood,3,A55442,165,84,66
+Wheat,wheat,3,F5DEB3,245,222,179
+Pale Gold,pale-gold,3,E8BF8B,232,191,139
+Brown Yellow,brown-yellow,3,D6A674,214,166,116
+Light Olive Green,light-olive-green,3,A8BF80,168,191,128
+Light Green,light-green,3,90ee90,144,238,144
+Seafoam,seafoam,3,80F9AD,128,249,173
+Turtle Green,turtle-green,3,999966,153,153,102
+Green Citron,green-citron,3,9BBF24,155,191,36
+Emerald,emerald,3,00C560,0,197,96
+Light Sea Green,light-sea-green,3,00CC99,0,204,153
+Leaf Green,leaf-green,3,5CA904,92,169,4
+Green,green,3,00A550,0,165,80
+Deep Mint,deep-mint,3,1D986A,29,152,106
+Khaki Green,khaki-green,3,707050,112,112,80
+Olive Green,olive-green,3,808000,128,128,0
+Moss Green,moss-green,3,39701E,57,112,30
+Sea Green,sea-green,3,2B7F4E,43,127,78
+Bronze Yellow,bronze-yellow,3,695C00,105,92,0
+Dark Green,dark-green,3,005211,0,82,17
+Light Turquoise,light-turquoise,3,90F4DA,144,244,218
+Medium Turquoise,medium-turquoise,3,60D8CA,96,216,202
+Pale Turquoise,pale-turquoise,3,78EDE1,120,237,225
+Pale Aqua,pale-aqua,3,B2FFF2,178,255,242
+Turquoise,turquoise,3,06c2ac,6,194,172
+Persian,persian,3,059F8D,5,159,141
+Celadon,celadon,3,069694,6,150,148
+Tiffany Blue,tiffany-blue,3,69cecc,105,206,204
+Sea Serpent,sea-serpent,3,59BCD8,89,188,216
+Pacific Blue,pacific-blue,3,40B3ED,64,179,237
+Dark Turquoise,dark-turquoise,3,058978,5,137,120
+Pine,pine,3,277266,39,114,102
+Midnight Green,midnight-green,3,033F3F,3,63,63
+Teal,teal,3,029386,2,147,134
+Dark Teal,dark-teal,3,265B5F,38,91,95
+Baby Blue,baby-blue,3,A8E4F5,168,228,245
+Sky Blue,sky-blue,3,A8D8FC,168,216,252
+Periwinkle,periwinkle,3,B5C8FF,181,200,255
+Cyan,cyan,3,61CEED,97,206,237
+Light Blue,light-blue,3,81c1fd,129,193,253
+Cornflower,cornflower,3,8CA9FF,140,169,255
+Pale Violet,pale-violet,3,A592FF,165,146,255
+Deep Sky Blue,deep-sky-blue,3,49B5F6,73,181,246
+Blueberry,blueberry,3,6289FF,98,137,255
+Azure,azure,3,069AF3,6,154,243
+Blue,blue,3,285EFF,40,94,255
+Aqua,aqua,3,13EAC9,19,234,201
+Royal Blue,royal-blue,3,3A2EFE,58,46,254
+Pale Green,pale-green,3,8AA375,138,163,117
+Azure White,azure-white,3,DEEBF2,222,235,242
+Light Steel Blue,light-steel-blue,3,ABBCD1,171,188,209
+Bluish Gray,bluish-gray,3,738595,115,133,149
+Cadet Blue,cadet-blue,3,4E6E8E,78,110,142
+Charcoal Blue,charcoal-blue,3,2D445E,45,68,94
+Medium Blue,medium-blue,3,2C6FBB,44,111,187
+Sapphire,sapphire,3,2138AB,33,56,171
+Cobalt,cobalt,3,1E488F,30,72,143
+Dark Blue,dark-blue,3,000080,0,0,128
+Gold,gold,3,D4AF37,212,175,55
+Beige,beige,3,F5F5DC,245,245,220
+Light Brown,light-brown,3,ad8150,173,129,80
+Tuscan,tuscan,3,E6DAA6,230,218,166
+Bronze,bronze,3,cd7f32,205,127,50
+Windsor Tan,windsor-tan,3,A55E06,165,94,6
+Dark Goldenrod,dark-goldenrod,3,C68211,198,130,17
+Brown,brown,3,653700,101,55,0
+Golden Brown,golden-brown,3,96610C,150,97,12
+Dark Brown,dark-brown,3,4C2801,76,40,1
+Sepia,sepia,3,6B4608,107,70,8
+Ecru,ecru,3,F3EFE0,243,239,224
+Tan,tan,3,D2B48C,210,180,140
+Ivory,ivory,3,FFFFF0,255,255,240
+Floral White,floral-white,3,FFFAF0,255,250,240
+Snow,snow,3,FFFAFA,255,250,250
+Ghost White,ghost-white,3,F8F8FF,248,248,255
+Linen,linen,3,FAF0E6,250,240,230
+Light Gray,light-gray,3,D8D8D8,216,216,216
+Pastel Blue,pastel-blue,3,ABBCD1,171,188,209
+Gray,gray,3,959595,149,149,149
+Ash,ash,3,B2BEB5,178,190,181
+Pastel Gray,pastel-gray,3,D1D7AF,209,215,175
+Sonic Silver,sonic-silver,3,757575,117,117,117
+Slate Gray,slate-gray,3,59656D,89,101,109
+Dark Gray,dark-gray,3,606060,96,96,96
+Chrome,chrome,3,E3DEDB,227,222,219
+White,white,3,FFFFFF,255,255,255
+Black,black,3,000000,0,0,0
+Lavender,lavender,3,DCD0FF,220,208,255
+Carmine,carmine,3,FF0038,255,0,56
+Lime Yellow,lime-yellow,3,D0FE1D,208,254,29
+Latte,latte,3,DBC4AB,219,196,171
+Khaki,khaki,3,C3B091,195,176,145
+Tuscan Brown,tuscan-brown,3,6F5242,111,82,66
+Rose Gold,rose-gold,3,C58E80,197,142,128
+Silver,silver,3,cccccc,204,204,204
+Holographic,holographic,3,ced9ed,206,217,237
+Copper,copper,3,B87333,184,115,51
+Bronze,bronze,3,CD7F32,205,127,50
+Shocking Pink,shocking-pink,3,FE02A2,254,2,162
+Lilac,lilac,3,ECD6EF,236,214,239
+Pink Lace,pink-lace,3,F5D6EB,245,214,235
+Tropical Violet,tropical-violet,3,C4A6DE,196,166,222
+Mauve,mauve,3,C58ACC,197,138,204
+Lavender Pink,lavender-pink,3,EDB5DB,237,181,219
+Slate Blue,slate-blue,3,7355FF,115,85,255
+Amethyst,amethyst,3,9461C9,148,97,201
+Plum,plum,3,AB45BF,171,69,191
+Blush Pink,blush-pink,3,E480C7,228,128,199
+Electric Indigo,electric-indigo,3,6500FF,101,0,255
+Violet,violet,3,7329B0,115,41,176
+Purple,purple,3,800080,128,0,128
+Fuchsia,fuchsia,3,E0119D,224,17,157
+Indigo,indigo,3,521C78,82,28,120
+Dark Slate Blue,dark-slate-blue,3,4A00BA,74,0,186
+Mulberry Purple,mulberry-purple,3,5A005A,90,0,90
+Magenta,magenta,3,C7007D,199,0,125
+Pixie Powder,pixie-powder,3,38008C,56,0,140
+Dark Violet,dark-violet,3,3B0B5B,59,11,91
+Dark Magenta,dark-magenta,3,A60066,166,0,102
+Light Pink,light-pink,3,ffcfdc,255,207,220
+Nude,nude,3,F4D5BB,244,213,187
+Rose Pink,rose-pink,3,FCB0BA,252,176,186
+Apricot,apricot,3,FCBBAE,252,187,174
+Pink,pink,3,ff81c0,255,129,192
+Salmon Pink,salmon-pink,3,FC8F8F,252,143,143
+Pink,pink,3,ff81c0,255,129,192
+Pastel Red,pastel-red,3,F45862,244,88,98
+Deep Pink,deep-pink,3,CC035C,204,3,92
+Raspberry,raspberry,3,A8084D,168,8,77
+Light Coral,light-coral,3,FF9999,255,153,153
+Light Salmon 1,light-salmon-1,3,FEA993,254,169,147
+Light Red,light-red,3,F4757B,244,117,123
+Coral,coral,3,FF7770,255,119,112
+Pink Orange,pink-orange,3,FF8C69,255,140,105
+Desire Red,desire-red,3,FA6378,250,99,120
+Pale Lavender,pale-lavender,3,EAE3ED,234,227,237
+Lavender Gray,lavender-gray,3,D4C7D8,212,199,216
+Pastel Purple,pastel-purple,3,B59DB5,181,157,181
+Dark Lavender,dark-lavender,3,A075A0,160,117,160
+Dark Lilac,dark-lilac,3,896089,137,96,137
+Chinese Violet,chinese-violet,3,724072,114,64,114
+Light Dusty Pink,light-dusty-pink,3,EDD3D0,237,211,208
+Dusty Pink,dusty-pink,3,DBAEAD,219,174,173
+Pastel Pink,pastel-pink,3,D19A9A,209,154,154
+Powder Pink,powder-pink,3,B78084,183,128,132
+Dark Salmon,dark-salmon,3,E8A08B,232,160,139
+Scarlet Red,scarlet-red,3,F54029,245,64,41
+Tomato,tomato,3,EF4026,239,64,38
+Crimson,crimson,3,E34234,227,66,52
+Red,red,3,e50000,229,0,0
+Flame Red,flame-red,3,D14212,209,66,18
+Vermilion,vermilion,3,DC143C,220,20,60
+Cardinal Red,cardinal-red,3,B01C2E,176,28,46
+Maroon,maroon,3,800000,128,0,0
+Orange Red,orange-red,3,BD3E07,189,62,7
+Dark Red,dark-red,3,840000,132,0,0
+Burgundy,burgundy,3,610023,97,0,35
+Light Salmon,light-salmon,3,FEA993,254,169,147
+Peach,peach,3,FDE6BA,253,230,186
+Salmon,salmon,3,FF8C69,255,140,105
+Light Orange,light-orange,3,FFB07C,255,176,124
+Pastel Orange,pastel-orange,3,FFB973,255,185,115
